@@ -1,6 +1,6 @@
 # RASPBIAN JESSIE KIOSK
 
-This documemt describes the process of turning Raspberry Pi running the original Raspbian OS into a kiosk machine, using Chromium browser, which has been recently enabled without the need of any workarounds since the Chromium browser was included in the latest version of Raspbian (2016-09-23).
+This documemt describes the process of turning Raspberry Pi running the original Raspbian Jessie into a kiosk machine, using Chromium browser, which has been recently enabled without the need of any workarounds since the Chromium browser was included in the latest version of Raspbian (2016-09-23).
 
 - [Setup](#setup)
   - [Initial pi configuration](#initial-pi-configuration)
